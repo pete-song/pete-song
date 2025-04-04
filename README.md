@@ -7,7 +7,7 @@
 <p align="left">
   ✨ I am a passionate Frontend Developer experienced with React and NextJS.
   <br>
-  📚 Feel free to checkout my latest deployment, Expense Tracker [here](https://expense-tracker-pete-song.vercel.app).
+  📚 Feel free to checkout my latest deployment, Expense Tracker (https://expense-tracker-pete-song.vercel.app).
   <br>
   🎯 I want to learn more about Machine Learning and Data Science
 </p>
